@@ -98,9 +98,9 @@ If you get stuck on any step, be sure to print the output to `stdout`!
 
 ### Lesson Plans
 
-- [**BEW 2.5**: Project #1 - SSGs](https://tech-at-du.github.io/ACS-4210-Strongly-Typed-Languages/#/Lessons/SSGProject): Code samples you can use to complete the MVP requirements.
-- [**BEW 2.5**: Files & Directories](https://tech-at-du.github.io/ACS-4210-Strongly-Typed-Languages/#/Lessons/FilesDirectories): Code samples you can use to complete v1.1 requirements.
-- [**BEW 2.5**: Files & Directories](https://tech-at-du.github.io/ACS-4210-Strongly-Typed-Languages/#/Lessons/3rdPartyLibs): Code samples you can use to complete v1.2 requirements.
+- [**ACS 4210**: Project #1 - SSGs](https://tech-at-du.github.io/ACS-4210-Strongly-Typed-Languages/#/Lessons/SSGProject): Code samples you can use to complete the MVP requirements.
+- [**ACS 4210**: Files & Directories](https://tech-at-du.github.io/ACS-4210-Strongly-Typed-Languages/#/Lessons/FilesDirectories): Code samples you can use to complete v1.1 requirements.
+- [**ACS 4210**: Files & Directories](https://tech-at-du.github.io/ACS-4210-Strongly-Typed-Languages/#/Lessons/3rdPartyLibs): Code samples you can use to complete v1.2 requirements.
 
 ### Example Code
 
